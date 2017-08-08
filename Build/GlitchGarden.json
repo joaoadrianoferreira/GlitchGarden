@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "GlitchGarden.data.unityweb",
+"asmCodeUrl": "GlitchGarden.asm.code.unityweb",
+"asmMemoryUrl": "GlitchGarden.asm.memory.unityweb",
+"asmFrameworkUrl": "GlitchGarden.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
